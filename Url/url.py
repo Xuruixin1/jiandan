@@ -1,0 +1,5 @@
+urlteacherLogin='http://172.16.0.163:8012/teacherLogin'
+urlteacherdenglu='http://172.16.0.163:8012/api/login'
+urlloginmessage = 'http://172.16.0.163:8012/api/teacherIndexInit?ts=1511430129711 '
+urlbeike = 'http://172.16.0.163:8012/api/getUserPreparation'
+urlkebiao = 'http://172.16.0.163:8012/api/getTeachPlansInPeriod'
